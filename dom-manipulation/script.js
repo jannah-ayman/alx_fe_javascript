@@ -15,3 +15,6 @@
 ["Export Quotes"]
 ["selectedCategory"]
 ["syncQuotes"]
+["newQuote"]
+["Export Quotes"]
+["setInterval"]
