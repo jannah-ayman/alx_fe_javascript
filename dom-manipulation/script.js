@@ -1,2 +1,5 @@
 ["text", "category"]
 ["showRandomQuote", "random", "innerHTML"]
+["fetchQuotesFromServer", "function"]
+["populateCategories", "categoryFilter", "document.getElementById", "appendChild", "map"]
+["localStorage.setItem"]
