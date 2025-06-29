@@ -11,3 +11,7 @@
 ["addEventListener"]
 ["filterQuote", "quoteDisplay"]
 ["method", "POST", "JSON.stringify", "headers", "application/json", "Content-Type"]
+["createElement"]
+["Export Quotes"]
+["selectedCategory"]
+["syncQuotes"]
