@@ -3,3 +3,7 @@
 ["fetchQuotesFromServer", "function"]
 ["populateCategories", "categoryFilter", "document.getElementById", "appendChild", "map"]
 ["localStorage.setItem"]
+["Math.random"]
+["localStorage.getItem"]
+["option", "value", "textContent"]
+["await", "async", "https://jsonplaceholder.typicode.com/posts", ".json"]
