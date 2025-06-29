@@ -18,3 +18,4 @@
 ["newQuote"]
 ["Export Quotes"]
 ["setInterval"]
+["alert", "Quotes synced with server!"]
