@@ -20,3 +20,4 @@
 ["setInterval"]
 ["alert", "Quotes synced with server!"]
 ["Blob"]
+["FileReader", "onload", "JSON.parse", "readAsText"]
