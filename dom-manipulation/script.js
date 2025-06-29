@@ -7,3 +7,7 @@
 ["localStorage.getItem"]
 ["option", "value", "textContent"]
 ["await", "async", "https://jsonplaceholder.typicode.com/posts", ".json"]
+["createAddQuoteForm"]
+["addEventListener"]
+["filterQuote", "quoteDisplay"]
+["method", "POST", "JSON.stringify", "headers", "application/json", "Content-Type"]
